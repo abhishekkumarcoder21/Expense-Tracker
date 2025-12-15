@@ -7,12 +7,12 @@ This project focuses on clean UX, meaningful analytics, and real-world usability
 🌐 Live Demo
 
 🔗 Live Application:
-[Paste live link here]
+https://expense-tracker-iota-lilac.vercel.app/
 
 📂 GitHub Repository
 
 🔗 Source Code:
-[Paste GitHub repository link here]
+https://github.com/abhishekkumarcoder21/Expense-Tracker
 
 👨‍💻 Author
 
